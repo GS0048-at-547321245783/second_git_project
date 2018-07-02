@@ -1,1 +1,2 @@
-File file created in second git project
+File file created in second git project 
+changes to commit to see pushing changes to repository
