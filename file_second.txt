@@ -1,2 +1,6 @@
 another file to test stash
+<<<<<<< Updated upstream
 another feature........
+=======
+another 
+>>>>>>> Stashed changes
